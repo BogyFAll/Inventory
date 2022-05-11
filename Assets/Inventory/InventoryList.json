@@ -1,0 +1,44 @@
+{
+  "Items": [
+    {
+      "Id": 1,
+      "Name": "AK-47",
+      "ImagePath": "Inventory/Images/ak-47"
+    },
+    {
+      "Id": 2,
+      "Name": "Патроны 5",
+      "ImagePath": "Inventory/Images/18"
+    },
+    {
+      "Id": 3,
+      "Name": "Перчатки",
+      "ImagePath": "Inventory/Images/8"
+    },
+    {
+      "Id": 4,
+      "Name": "Ботинки",
+      "ImagePath": "Inventory/Images/13"
+    },
+    {
+      "Id": 5,
+      "Name": "Патроны 10",
+      "ImagePath": "Inventory/Images/16"
+    },
+    {
+      "Id": 6,
+      "Name": "Канистра с бензином",
+      "ImagePath": "Inventory/Images/20"
+    },
+    {
+      "Id": 7,
+      "Name": "Спички",
+      "ImagePath": "Inventory/Images/22"
+    },
+    {
+      "Id": 8,
+      "Name": "Нож",
+      "ImagePath": "Inventory/Images/25"
+    }
+  ]
+}

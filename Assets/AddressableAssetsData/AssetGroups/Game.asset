@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  m_GroupName: Game
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0dc0a726b2a70f840a93d4ae117cb56b
+  m_SerializeEntries:
+  - m_GUID: c091d0017a3f4c54f8ad0d5cbd03ba19
+    m_Address: Assets/Scenes/GameScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 865cc7aeea1fb8b4d848534fc2c9d2f0
+    m_Address: Assets/Scenes/LoadScreenScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c7cfe46592388e7488e9c194e027a7a0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 73ff9177b34044b4c9e3c4deab2d659a, type: 2}
+    - {fileID: 11400000, guid: 7481cb48edfcacc4b8f0986e88a1ec05, type: 2}
